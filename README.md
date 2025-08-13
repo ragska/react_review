@@ -1,12 +1,21 @@
-# React + Vite
+#Atividade de Fixação
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Mini app com 3 páginas (Home, Contador, Usuários)
+Uso de hooks (useState, useEffect)
+Consumo de API
+Navegação usando React Router
 
-Currently, two official plugins are available:
+# Como baixar ou clonar o projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Você deve ter o React Router e o Git instalados
 
-## Expanding the ESLint configuration
+No GitHub:
+Vá até o repositório desejado, clique no botão verde "Code" e copie o link que aparece em HTTPS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+No terminal do Git Bash, digite: 
+
+    git clone https://github.com/ragska/react_review.git
+    
+Para baixar as dependências, digite:
+
+    npm install
